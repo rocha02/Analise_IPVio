@@ -12,7 +12,8 @@ ipvio_2021 <- readRDS("ipvio_2021.rds")
 
 ## Exploração automatizada com o pacote "DataExplorer"
 
-## create_report(ipvio_2021, config = configure_report(add_plot_prcomp = FALSE))  (Não rodar nesta pasta)
+## create_report(ipvio_2021, config = configure_report(add_plot_prcomp = FALSE))  
+## (Não rodar nesta pasta)
 
 ## Exploração manual
 
